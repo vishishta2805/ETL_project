@@ -1,0 +1,49 @@
+[
+  {
+    "copyright": "\nAnglo-Australian Telescope\nBoard\n",
+    "date": "1997-10-23",
+    "explanation": "Can you find Supernova 1987a?  It's not hard - it occurred in the center of the bulls-eye pattern. Although this stellar detonation was seen more than a decade ago, light from it continues to bounce off nearby interstellar dust and be reflected to us.  These two rings are thus echoes of the powerful supernova.  As time goes on, these echoes appear to expand outward from the center.  The above image was created by subtracting a picture taken before 1987, from a picture taken after.",
+    "hdurl": "https://apod.nasa.gov/apod/image/9710/sn87echo_aat.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Echos of Supernova 1987A",
+    "url": "https://apod.nasa.gov/apod/image/9710/sn87echo_aat_big.jpg"
+  },
+  {
+    "date": "2009-09-05",
+    "explanation": "The expanding debris cloud from the explosion of a massive star is captured in this multiwavelength composite, combining x-ray and optical images from the Chandra and Hubble telescopes. Identified as E0102-72, the supernova remnant lies about 190,000 light-years away in our neighboring galaxy, the Small Magellanic Cloud. A strong cosmic source of x-rays, E0102 was imaged by the Chandra X-ray Observatory shortly after its launch in 1999. In celebration of Chandra's 10th anniversary, this colorful view of E0102 and its environs was created, including additional Chandra data. An analysis of all the data indicates that the overall shape of E0102 is most likely a cylinder that is viewed end-on rather than a spherical bubble. The intriguing result implies that the massive star's explosion has produced a shape similar to what is seen in some planetary nebulae associated with lower mass stars. At the distance of the Small Magellanic Cloud, this field of view spans about 150 light-years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0909/e0102_composite900.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Supernova Remnant E0102-72",
+    "url": "https://apod.nasa.gov/apod/image/0909/e0102_composite900.jpg"
+  },
+  {
+    "copyright": "\nLori Jacobs\n",
+    "date": "2020-01-29",
+    "explanation": "The Milky Way was not created by an evaporating lake. The pool of vivid blue water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA. Steam rises off the spring, heated by a magma chamber deep underneath known as the Yellowstone hotspot.  The steam blurs the image of Jupiter, making it seem unusually large.  Unrelated and far in the distance, the central band of our Milky Way Galaxy rises high overhead, a band lit by billions of stars.  The featured picture is a 3-image panorama taken last August.  If the Yellowstone hotspot causes another supervolcanic eruption as it did 640,000 years ago, a large part of North America would be affected.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2001/StoneyWay_Jacobs_4754.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Milky Way over Yellowstone",
+    "url": "https://apod.nasa.gov/apod/image/2001/StoneyWay_Jacobs_960.jpg"
+  },
+  {
+    "date": "2014-08-19",
+    "explanation": "Where should Philae land? As ESA's robotic spacecraft Rosetta circles toward Comet 67P/ Churyumov-Gerasimenko, a decision must eventually be made as to where its mechanical lander should attempt to touch-down.  Reaching the comet earlier this month, Rosetta is sending back detailed pictures of the comet's unusual nucleus from which a smooth landing site will be selected.   Pictured above, near the image top, the head of the comet's nucleus shows rugged grooves, while near the image bottom, the body shows a patch-work of areas sometimes separated by jagged hills.  Some of the patch-work areas apparent on both the head and body seem to have fields of relatively smooth terrain. In the connecting area called the neck, however, visible across the image center, a relatively large swath of light-colored smooth terrain appears, punctuated occasionally by large boulders. Rosetta is scheduled to release Philae toward the dark mountain-sized comet nucleus with an anticipated landing date in November.",
+    "hdurl": "https://apod.nasa.gov/apod/image/1408/rosetta02_esa_2048.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Contrasting Terrains on Comet Churyumov-Gerasimenko",
+    "url": "https://apod.nasa.gov/apod/image/1408/rosetta02_esa_960.jpg"
+  },
+  {
+    "date": "1998-03-03",
+    "explanation": "Tomorrow's picture: Aurora Over Alaska  < Archive | Index | Search | Calendar | Glossary | Education | About APOD >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC &: Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/9803/europaclose_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "560 Kilometers Above Europa",
+    "url": "https://apod.nasa.gov/apod/image/9803/europaclose_gal_big.jpg"
+  }
+]

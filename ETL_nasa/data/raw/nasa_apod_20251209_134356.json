@@ -1,0 +1,50 @@
+[
+  {
+    "copyright": "\nJimmy Westlake\n(Colorado\nMountain College)\n\n",
+    "date": "2003-10-30",
+    "explanation": "Vivid auroral displays were triggered by a cloud of high energy particles and magnetic fields from the Sun that collided with planet Earth's magnetosphere yesterday, October 29, at about 06:30 Universal Time. The collision was anticipated, following an intense solar flare and coronal mass ejection detected on October 28, and many anxious skywatchers were rewarded with an enjoyable light show. While aurorae don't normally haunt skies in the southern United States, they were reported from locations in Missouri, Texas, New Mexico, and California in the early morning hours. Near Yampa, Colorado astronomer Jimmy Westlake also spent early yesterday morning enjoying the stormy space weather. He was impressed by this colorful apparition of the northern lights -- produced by oxygen and nitrogen atoms excited by collisions with energetic particles from the magnetosphere and returning to lower energy states, at altitudes of 100 kilometers or more. Brighter stars shine through the extreme high-altitude glow which shows much lower clouds and the distant horizon in silhouette.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/aurora031029b_westlake_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora in Colorado Skies",
+    "url": "https://apod.nasa.gov/apod/image/0310/aurora031029b_westlake_c1.jpg"
+  },
+  {
+    "date": "2007-11-01",
+    "explanation": "A cosmic bridge of stars, gas, and dust stretches for over 75,000 light-years and joins this peculiar pair of galaxies cataloged as Arp 87. The bridge is strong evidence that these two immense star systems have passed close to each other and experienced violent tides induced by mutual gravity. As further evidence, the face-on spiral galaxy on the right, also known as NGC 3808A, exhibits many young blue star clusters produced in a burst of star formation. The twisted edge-on spiral on the left (NGC 3808B) seems to be wrapped in the material bridging the galaxies and surrounded by a curious polar ring. While such interactions are drawn out over billions of years, repeated close passages should ultimately result in the merger of this pair of galaxies into a larger single galaxy of stars. Although this scenario does look peculiar, galactic mergers are thought to be common, with Arp 87 representing a stage in this inevitable process. The Arp 87 pair are about 300 million light-years distant toward the constellation Leo. The prominent edge-on spiral at the far left appears to be a more distant background galaxy and not involved in the on-going merger.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0711/arp87full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Peculiar Arp 87",
+    "url": "https://apod.nasa.gov/apod/image/0711/arp87web_c800.jpg"
+  },
+  {
+    "copyright": "Doug Zubenel",
+    "date": "2008-01-12",
+    "explanation": "This colorful view of the western sky at sunset features last Wednesday's slender crescent Moon. Of course, when the Moon is in its crescent phase it can never be far from the Sun in the sky. Also always close to the Sun in Earth's sky is innermost planet Mercury, seen here below and right of center against the bright orange glow along the horizon. Mercury is usually difficult to glimpse because of overwhelming sunlight, but increasingly better views of the small planet after sunset will be possible as it wanders farther east of the Sun in the coming days. On January 14th, NASA's MESSENGER spacecraft will have a good view too, as it makes its first Mercury flyby.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0801/MoonMercury_zubenel.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mercury Chases the Sunset",
+    "url": "https://apod.nasa.gov/apod/image/0801/MoonMercury_zubenel_c800.jpg"
+  },
+  {
+    "copyright": "Tamas Ladanyi",
+    "date": "2009-01-02",
+    "explanation": "Did you see it? The last conjunction of Moon and bright planets in 2008 featured a young crescent Moon and brilliant Venus in the west after sunset on December 31st. Seen here in dark, clear, mountain air from M\u00f6nichkirchen, Austria, are the two celestial beacons that dominate planet Earth's night sky. That pair was hard to miss, but skygazers watching lower along the western horizon in early twilight might also have glimpsed a pairing of Jupiter and Mercury as they both wandered closer to the Sun in the sky at year's end. Still, while this single, 5 second long exposure seriously overexposes the Moon's sunlit crescent, it does capture another planet not visible to the unaided eye. The tiny pinprick of light just above the photographer's head in the picture is the distant planet Neptune.   Note : APOD editor to speak in New York tonight.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0901/monich_081231_ladanyi.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Alpine Conjunction",
+    "url": "https://apod.nasa.gov/apod/image/0901/monich_081231_ladanyi_1.jpg"
+  },
+  {
+    "date": "2018-09-30",
+    "explanation": "Why is this neutron star off-center? Recently a lone neutron star has been found within the debris left over from an old supernova explosion. The \"lonely neutron star\" in question is the blue dot at the center of the red nebula near the bottom left of E0102-72.3.  In the featured image composite, blue represents X-ray light captured by NASA's Chandra Observatory, while red and green represent optical light captured by ESO's Very Large Telescope in Chile and NASA's Hubble Space Telescope in orbit.  The displaced position of this neutron star is unexpected since the dense star is thought to be the core of the star that exploded in the supernova and created the outer nebula.  It could be that the neutron star in E0102 was pushed away from the nebula's center by the supernova itself, but then it seems odd that the smaller red ring remains centered on the neutron star.  Alternatively, the outer nebula could have been expelled during a different scenario -- perhaps even involving another star.  Future observations of the nebulas and neutron star appear likely to resolve the situation.",
+    "hdurl": "https://apod.nasa.gov/apod/image/1809/E0102NS_HubbleChandra_3985.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Lonely Neutron Star in Supernova Remnant E0102-72.3",
+    "url": "https://apod.nasa.gov/apod/image/1809/E0102NS_HubbleChandra_960.jpg"
+  }
+]
